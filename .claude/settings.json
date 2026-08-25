@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Rights_Field__jobs_wait",
+      "mcp__Rights_Field__show_generation_by_ids"
+    ]
+  }
+}
